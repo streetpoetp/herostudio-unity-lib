@@ -1,0 +1,22 @@
+﻿{
+    "name": "DOTweenPro.Editor",
+    "references": [
+        "DemiLib",
+        "DemiLib.Editor",
+        "DOTween",
+        "DOTween.Editor",
+
+        "DOTween.Modules",
+        "DOTweenPro",
+        "DOTweenPro.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

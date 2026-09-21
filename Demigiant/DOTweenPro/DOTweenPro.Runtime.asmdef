@@ -1,0 +1,17 @@
+﻿{
+    "name": "DOTweenPro.Runtime",
+    "references": [
+        "DemiLib",
+        "DOTween",
+        "DOTweenPro",
+        "DOTween.Modules"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

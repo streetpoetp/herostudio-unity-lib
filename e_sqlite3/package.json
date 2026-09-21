@@ -1,0 +1,19 @@
+{
+    "name": "e_sqlite3",
+    "displayName": "e_sqlite3",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "e_sqlite3",
+    "keywords": [
+        "sqlite"
+    ],
+    "category": "database",
+    "author": {
+        "name": "e_sqlite3"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "local",
+        "url": "Assets/Hero Studio/Plugins/e_sqlite3"
+    }
+}

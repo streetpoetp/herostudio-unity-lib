@@ -1,0 +1,7 @@
+﻿{
+  "name": "com.hellmade.eazysoundmanager",
+  "version": "1.0.0",
+  "displayName": "Hellmade Eazy Sound Manager",
+  "description": "Provides the Eazy Sound Manager library, wrapped for UPM.",
+  "unity": "2021.3"
+}

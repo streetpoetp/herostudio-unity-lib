@@ -1,0 +1,12 @@
+{
+  "name": "com.stompyrobot",
+  "displayName": "SRF (Lite) & SRDebugger",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Stripped-down LITE version of SRF, containing the minimal necessary scripts for SRDebugger. Provides debugging and utility features for Unity projects.",
+  "keywords": ["SRF", "SRDebugger", "Debugging", "Tools", "Unity"],
+  "author": {
+    "name": "Stompy Robot",
+    "url": "https://github.com/stompyrobot"
+  }
+}

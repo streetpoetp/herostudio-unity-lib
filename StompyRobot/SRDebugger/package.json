@@ -1,0 +1,10 @@
+{
+  "name": "com.stompyrobot.srdebugger",
+  "displayName": "SRDebugger",
+  "version": "1.11.0",
+  "unity": "2018.4",
+  "description": "SRDebugger is a tool for Unity to help you track down bugs and issues in your game while on a target device.",
+  "dependencies": {
+    "com.stompyrobot.srf-lite": "1.0.0"
+  }
+}

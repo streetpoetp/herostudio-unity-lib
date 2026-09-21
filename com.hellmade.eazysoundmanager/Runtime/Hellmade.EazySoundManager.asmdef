@@ -1,0 +1,14 @@
+﻿{
+    "name": "Hellmade.EazySoundManager",
+    "rootNamespace": "Hellmade.EazySound",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

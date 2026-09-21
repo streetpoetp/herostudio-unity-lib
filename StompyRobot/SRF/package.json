@@ -1,0 +1,7 @@
+{
+  "name": "com.stompyrobot.srf-lite",
+  "displayName": "SRF (Lite)",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Stripped-down LITE version of SRF, containing the minimal necessary scripts for SRDebugger."
+}

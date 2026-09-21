@@ -1,0 +1,11 @@
+{
+  "name": "com.demigiant.dotweenpro",
+  "version": "1.0.0",
+  "displayName": "DOTween Pro",
+  "description": "DOTween is a fast, efficient, and fully type-safe object-oriented animation engine for Unity. This package contains both the free and Pro versions.\n\nDOTween and DOTween Pro are copyright (c) 2014-2018 Daniele Giardini - Demigiant",
+  "unity": "2019.1",
+  "author": {
+    "name": "Daniele Giardini (Demigiant)",
+    "url": "http://www.demigiant.com/"
+  }
+}
