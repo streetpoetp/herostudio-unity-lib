@@ -1,0 +1,22 @@
+{
+    "fixtureId": "0ffe667cc4be8a0774848258",
+    "sourceCommit": "7379424c0ba0abea8ded3a7c1c9a054a6a6463f6",
+    "sourceDiffSha256": "ded90bbdf2c3a085b1771df4751b29aa57a750f4901ade877d557999c95ea08c",
+    "target": "Android",
+    "pagesUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/0ffe667cc4be8a0774848258/",
+    "rawUri": "https://raw.githubusercontent.com/streetpoetp/herostudio-unity-lib/gh-pages/dynamicload-http/0ffe667cc4be8a0774848258/",
+    "runtime": {
+        "packageId": "runtime",
+        "version": "v-66d8c7d349859f90",
+        "compatibilityId": "r-71a36033814cfe51",
+        "manifestSha256": "180bc1364b47dd08bcfec00a85a51157e852438f491d051dc01076ab5cc1f0eb",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/0ffe667cc4be8a0774848258/runtime"
+    },
+    "gameEntry": {
+        "packageId": "game-entry",
+        "version": "v-8fd0e78e7a7befa7",
+        "compatibilityId": "pe-71a36033814cfe51",
+        "manifestSha256": "58f44896729597fb70b708f17484a63d5b0ec3986fe25385a63835d33c7b6b2a",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/0ffe667cc4be8a0774848258/game-entry"
+    }
+}

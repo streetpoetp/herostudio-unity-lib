@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "packageId": "game-entry",
+    "version": "v-8fd0e78e7a7befa7",
+    "compatibilityId": "pe-71a36033814cfe51",
+    "files": [
+        {
+            "path": "Scenes/game-entry.bundle",
+            "length": 5572,
+            "sha256": "382b9423ce1f2aaee1c96c14027ac6094a7d739aa4f32867d58d0675033ac5b8"
+        }
+    ]
+}
