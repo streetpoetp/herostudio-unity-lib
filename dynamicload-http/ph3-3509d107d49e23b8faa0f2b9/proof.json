@@ -1,0 +1,38 @@
+{
+    "fixtureId": "ph3-3509d107d49e23b8faa0f2b9",
+    "sourceCommit": "7dd0acb562e80ffb4bd0790911c2f93db216f7f2",
+    "sourceDiffSha256": "340b093eb129b81a96ff19ee71fcc301d6984f763ea3a146f75f0c584735e581",
+    "target": "Android",
+    "pagesUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/",
+    "rawUri": "https://raw.githubusercontent.com/streetpoetp/herostudio-unity-lib/gh-pages/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/",
+    "initialRouteSha256": "49264a3cbfc2a958c7d889491c6be2400d07b7f67af339f23fc1169c1ba4ca20",
+    "gameRouteSha256": "d56cb8e457fd63e5022a5fd75a99c29f887f9f9ae83532443ad9409e6a18c3bf",
+    "startupPhaseRuntime": {
+        "packageId": "remote-startup-phase-runtime",
+        "version": "v-ceff725b5a213f59",
+        "compatibilityId": "spr-b80a54669b9d0365",
+        "manifestSha256": "88190e1a965bebcb92114c8c7a1dd1b21265966398fae0adc8dfc2803aec4859",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/startup-phase-runtime"
+    },
+    "startupPhaseEntry": {
+        "packageId": "remote-startup-phase-entry",
+        "version": "v-e4c6ce29fbb5402d",
+        "compatibilityId": "spe-b80a54669b9d0365",
+        "manifestSha256": "b3d4f9e5fff3642f3272a43f9d6b71471c7b6b18e4afac3a156d0fc28daefbc7",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/startup-phase-entry"
+    },
+    "runtime": {
+        "packageId": "remote-runtime",
+        "version": "v-f730f6e02a8ac0c5",
+        "compatibilityId": "r-71a36033814cfe51",
+        "manifestSha256": "29e5cf92e0d6373caa3dcc1fd7d26f582bc5b22e25c65b44654f24ba84b888f2",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/runtime"
+    },
+    "gameEntry": {
+        "packageId": "remote-game-entry",
+        "version": "v-c66e5b2fd899eff9",
+        "compatibilityId": "pe-71a36033814cfe51",
+        "manifestSha256": "ec65c32d74f23871b1c3d66c32bd0560b86adef868c51ca283b76e1ce19185ec",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/game-entry"
+    }
+}
