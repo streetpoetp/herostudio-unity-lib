@@ -1,14 +1,14 @@
 {
     "keyId": "hero-dynamicload-proof-v1",
     "securityGeneration": 1,
-    "signatureBase64": "TPqLrNrGlTLHZ3eplcNk6cmsQtknMOqEKC8EFdIJNO50L+EHWskJFbZpMzxn98CJX9NnFghwtHN2y3Qlm/KeLGBZvau1uNZd9l0whdIH9xHtdeMwvf4S/06tuQ+xmXODjWVoqYyzatzvKvDgz4STHMTYkIzXn21KWwFSHLeShIA=",
+    "signatureBase64": "M/SlOQR0eGZQKWF93Lmsl176maZpR5Aocd5fyFcs31l2ypfRdQNmk/CzNy27E/QyyVWIVASKVQiUCcNAf/RWaIrOjhQWmn/ifHctqrN7vN26UBNwz7Elixj08Kybyciv76QBO14V0cINy7bqpDJYwe18klRLVx6eC130lIQkZ5k=",
     "route": {
         "targetKind": 1,
-        "planId": "remote-game-v-f730f6e02a8ac0c5",
+        "planId": "remote-game-v-4d8b9ad39cf49de2",
         "phaseId": "game",
         "primaryRelease": {
             "phaseId": "game",
-            "releaseId": "v-f730f6e02a8ac0c5",
+            "releaseId": "v-4d8b9ad39cf49de2",
             "activationMode": 1,
             "compatibilityId": "app-32d65c72cba35225",
             "securityGeneration": 1,
@@ -55,14 +55,14 @@
                 }
             ],
             "runtimePackageId": "remote-runtime",
-            "runtimePackageVersion": "v-f730f6e02a8ac0c5",
+            "runtimePackageVersion": "v-4d8b9ad39cf49de2",
             "runtimeCompatibilityId": "r-71a36033814cfe51",
-            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/runtime",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3d7458e24889e2bdc782c315/runtime",
             "runtimeDescriptorFile": "runtime-payload.json",
             "entryPackageId": "remote-game-entry",
             "entryPackageVersion": "v-c66e5b2fd899eff9",
             "entryCompatibilityId": "pe-71a36033814cfe51",
-            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3509d107d49e23b8faa0f2b9/game-entry",
+            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-3d7458e24889e2bdc782c315/game-entry",
             "entrySceneBundle": "Scenes/game-entry.bundle",
             "entryScenePath": "Assets/_DynamicLoadL1/Module/GameApplication/Scenes/Game.unity"
         },
