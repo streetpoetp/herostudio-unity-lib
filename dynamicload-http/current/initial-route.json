@@ -1,7 +1,7 @@
 {
     "keyId": "hero-dynamicload-proof-v1",
     "securityGeneration": 1,
-    "signatureBase64": "LnhDu4ebE6fsJG251l1WpG+UpqdJzhMsVTo+mcWNxhyaj8txAfAdstBRSp0TVW+Et3FsTYlPuCWtLyzv1JAqhjEJANS3OFfA6IriZU0DsXKH9n6z9iM3CkYGUAHRXyY3KYKRk3VODT5bI8A8GQ7F//MTXnAwZXxsnj0WRiCJCWY=",
+    "signatureBase64": "ihpBHfYkpqmz1+w4JATf0OCuC6GRc3z34TFR4gjOYt7yYsHLfHnLfBMpB1tv7ElXW7KNLroO91KPpt3dwO2nyD/Q+Gg2hTRNtYoDEudfzabA7YTIwNVbkR0GTNSZu8Z0dMt2uS1jSAhpeP6jSWAVCCmWb+YlHhEfBYNlDk5Vl+M=",
     "route": {
         "targetKind": 0,
         "planId": "remote-startup-v-ceff725b5a213f59",
@@ -16,12 +16,12 @@
             "runtimePackageId": "remote-startup-phase-runtime",
             "runtimePackageVersion": "v-ceff725b5a213f59",
             "runtimeCompatibilityId": "spr-b80a54669b9d0365",
-            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/aaa4859c453a565b7c61e6f6/startup-phase-runtime",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph2-dff8fee16b23256fa9c34903/startup-phase-runtime",
             "runtimeDescriptorFile": "phase-runtime.json",
             "entryPackageId": "remote-startup-phase-entry",
             "entryPackageVersion": "v-e4c6ce29fbb5402d",
             "entryCompatibilityId": "spe-b80a54669b9d0365",
-            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/aaa4859c453a565b7c61e6f6/startup-phase-entry",
+            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph2-dff8fee16b23256fa9c34903/startup-phase-entry",
             "entrySceneBundle": "Scenes/startup-phase.bundle",
             "entryScenePath": "Assets/_DynamicLoadL1/System/DynamicLoad/Phase/Scenes/Routing.unity"
         },
