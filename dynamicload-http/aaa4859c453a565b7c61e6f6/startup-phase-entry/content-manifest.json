@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "packageId": "remote-startup-phase-entry",
+    "version": "v-e4c6ce29fbb5402d",
+    "compatibilityId": "spe-b80a54669b9d0365",
+    "files": [
+        {
+            "path": "Scenes/startup-phase.bundle",
+            "length": 161548,
+            "sha256": "16322445a10cca5e91b89324fb9de9d5ef5fdeb5a6f3c2edabd930bba715dc0c"
+        }
+    ]
+}
