@@ -1,0 +1,89 @@
+{
+    "schemaVersion": 1,
+    "payloadId": "v-0e87ef59749607f7",
+    "aotMetadataFiles": [
+        "AOT/mscorlib.dll.bytes",
+        "AOT/System.Core.dll.bytes",
+        "AOT/UnityEngine.CoreModule.dll.bytes",
+        "AOT/UnityEngine.UIElementsModule.dll.bytes"
+    ],
+    "hotUpdateAssemblies": [
+        {
+            "name": "DynamicLoadL1.Level.Runtime.Simulation",
+            "file": "Assemblies/DynamicLoadL1.Level.Runtime.Simulation.dll.bytes",
+            "dependsOn": []
+        },
+        {
+            "name": "DynamicLoadL1.Level.Runtime",
+            "file": "Assemblies/DynamicLoadL1.Level.Runtime.dll.bytes",
+            "dependsOn": [
+                "DynamicLoadL1.Level.Runtime.Simulation"
+            ]
+        },
+        {
+            "name": "DynamicLoadL1.Map.Runtime",
+            "file": "Assemblies/DynamicLoadL1.Map.Runtime.dll.bytes",
+            "dependsOn": []
+        },
+        {
+            "name": "DynamicLoadL1.GameFlow.Runtime",
+            "file": "Assemblies/DynamicLoadL1.GameFlow.Runtime.dll.bytes",
+            "dependsOn": [
+                "DynamicLoadL1.Level.Runtime",
+                "DynamicLoadL1.Map.Runtime"
+            ]
+        },
+        {
+            "name": "DynamicLoadL1.GameApplication.Runtime",
+            "file": "Assemblies/DynamicLoadL1.GameApplication.Runtime.dll.bytes",
+            "dependsOn": [
+                "DynamicLoadL1.GameFlow.Runtime",
+                "DynamicLoadL1.Level.Runtime",
+                "DynamicLoadL1.Map.Runtime"
+            ]
+        },
+        {
+            "name": "DynamicLoadL1.Level.UI",
+            "file": "Assemblies/DynamicLoadL1.Level.UI.dll.bytes",
+            "dependsOn": []
+        },
+        {
+            "name": "DynamicLoadL1.Level.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.Level.Runtime.Unity.dll.bytes",
+            "dependsOn": [
+                "DynamicLoadL1.Level.Runtime",
+                "DynamicLoadL1.Level.UI"
+            ]
+        },
+        {
+            "name": "DynamicLoadL1.Map.UI",
+            "file": "Assemblies/DynamicLoadL1.Map.UI.dll.bytes",
+            "dependsOn": []
+        },
+        {
+            "name": "DynamicLoadL1.Map.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.Map.Runtime.Unity.dll.bytes",
+            "dependsOn": [
+                "DynamicLoadL1.Map.Runtime",
+                "DynamicLoadL1.Map.UI"
+            ]
+        },
+        {
+            "name": "DynamicLoadL1.GameApplication.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.GameApplication.Runtime.Unity.dll.bytes",
+            "dependsOn": [
+                "DynamicLoadL1.GameApplication.Runtime",
+                "DynamicLoadL1.GameFlow.Runtime",
+                "DynamicLoadL1.Level.Runtime",
+                "DynamicLoadL1.Level.Runtime.Unity",
+                "DynamicLoadL1.Map.Runtime",
+                "DynamicLoadL1.Map.Runtime.Unity"
+            ]
+        }
+    ],
+    "entryPackageId": "remote-game-entry",
+    "entryPackageVersion": "v-c66e5b2fd899eff9",
+    "entryCompatibilityId": "pe-71a36033814cfe51",
+    "entrySceneBundle": "Scenes/game-entry.bundle",
+    "entryScenePath": "Assets/_DynamicLoadL1/Module/GameApplication/Scenes/Game.unity"
+}
