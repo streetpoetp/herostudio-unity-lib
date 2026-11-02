@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "packageId": "remote-release-selection-entry",
+    "version": "v-4bcff5d3cfedda84",
+    "compatibilityId": "pe-71a36033814cfe51",
+    "files": [
+        {
+            "path": "Scenes/entry.bundle",
+            "length": 161573,
+            "sha256": "2f5422496d0fa65f1a3e59320846fcdb2933115a3d9ed89f118da53c42a3b0ab"
+        }
+    ]
+}

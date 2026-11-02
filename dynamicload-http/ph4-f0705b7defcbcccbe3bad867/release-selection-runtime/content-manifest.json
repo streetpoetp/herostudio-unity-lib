@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "packageId": "remote-release-selection-runtime",
+    "version": "v-47bd051298ce6209",
+    "compatibilityId": "r-71a36033814cfe51",
+    "files": [
+        {
+            "path": "AOT/System.Core.dll.bytes",
+            "length": 444928,
+            "sha256": "c0dc0b496333feebc07bb78b7096de1d281e775b5f4aea75982038271e80eb5e"
+        },
+        {
+            "path": "AOT/UnityEngine.CoreModule.dll.bytes",
+            "length": 857600,
+            "sha256": "ce019bbcce122d1fc0aa0591247cf3b23932f2864887c27512b0f0245974d0cc"
+        },
+        {
+            "path": "AOT/UnityEngine.UIElementsModule.dll.bytes",
+            "length": 1914368,
+            "sha256": "43ec4894be3f1b081bb1641fd79d5ef4beff5d057229d3e5a6d47b3541e8f237"
+        },
+        {
+            "path": "AOT/mscorlib.dll.bytes",
+            "length": 2321920,
+            "sha256": "ca5bcd9552f1dfc377b93519bf3881fd48bdb14afd08e894ad423b0499f27e41"
+        },
+        {
+            "path": "Assemblies/DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity.dll.bytes",
+            "length": 8192,
+            "sha256": "f79e8cb0db61ee676833a22c655ed5f1dab083ee14214493fdb94022a205e402"
+        },
+        {
+            "path": "runtime-payload.json",
+            "length": 834,
+            "sha256": "d6d956f1cb533fc7fd6dd6610dbc7c78a6fdb04dfb3081b5c571ef2226335eb7"
+        }
+    ]
+}

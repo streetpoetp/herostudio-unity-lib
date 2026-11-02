@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "payloadId": "v-e4e5ebd00df74e21",
+    "aotMetadataFiles": [
+        "AOT/mscorlib.dll.bytes",
+        "AOT/System.Core.dll.bytes",
+        "AOT/UnityEngine.CoreModule.dll.bytes",
+        "AOT/UnityEngine.UIElementsModule.dll.bytes"
+    ],
+    "hotUpdateAssemblies": [
+        {
+            "name": "DynamicLoadL1.StartupPhase.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.StartupPhase.Runtime.Unity.dll.bytes",
+            "dependsOn": []
+        }
+    ],
+    "entryPackageId": "remote-startup-phase-entry",
+    "entryPackageVersion": "v-c0f08437cc24618c",
+    "entryCompatibilityId": "pe-71a36033814cfe51",
+    "entrySceneBundle": "Scenes/entry.bundle",
+    "entryScenePath": "Assets/_DynamicLoadL1/System/DynamicLoad/Phases/startup-routing/Scenes/Entry.unity"
+}

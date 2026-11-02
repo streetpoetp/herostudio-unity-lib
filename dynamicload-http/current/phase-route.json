@@ -1,0 +1,40 @@
+{
+    "keyId": "hero-dynamicload-proof-v1",
+    "securityGeneration": 1,
+    "signatureBase64": "Q9RPBTKNMoMSsXIDhin4dMYKgtJYS0yyzpcrm6b8LBKtCz1jtgL96/FICSFTNrrHysDn7zbw0nSRvWqqwIFyezEk6ZZC4wJrE3LDi1KpX9gWByiJ0lgyeopfDAd9QyggmOBXQx5Xi3g+drKxm3ApPS21OXomK9fdN/W5VAZdZEo=",
+    "route": {
+        "targetKind": 0,
+        "planId": "remote-release-selection-v-47bd051298ce6209",
+        "phaseId": "release-selection",
+        "primaryRelease": {
+            "phaseId": "release-selection",
+            "releaseId": "v-47bd051298ce6209",
+            "activationMode": 1,
+            "compatibilityId": "app-32d65c72cba35225",
+            "securityGeneration": 1,
+            "managedAssemblies": [
+                {
+                    "name": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
+                    "version": "0.0.0.0"
+                }
+            ],
+            "runtimePackageId": "remote-release-selection-runtime",
+            "runtimePackageVersion": "v-47bd051298ce6209",
+            "runtimeCompatibilityId": "r-71a36033814cfe51",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph4-f0705b7defcbcccbe3bad867/release-selection-runtime",
+            "runtimeDescriptorFile": "runtime-payload.json",
+            "entryPackageId": "remote-release-selection-entry",
+            "entryPackageVersion": "v-4bcff5d3cfedda84",
+            "entryCompatibilityId": "pe-71a36033814cfe51",
+            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph4-f0705b7defcbcccbe3bad867/release-selection-entry",
+            "entrySceneBundle": "Scenes/entry.bundle",
+            "entryScenePath": "Assets/_DynamicLoadL1/System/DynamicLoad/Phases/release-selection/Scenes/Entry.unity"
+        },
+        "authorizedFallbacks": [],
+        "mandatory": false,
+        "securityFloor": 1,
+        "handoffContractVersion": 1,
+        "terminalCode": "",
+        "terminalMessage": ""
+    }
+}
