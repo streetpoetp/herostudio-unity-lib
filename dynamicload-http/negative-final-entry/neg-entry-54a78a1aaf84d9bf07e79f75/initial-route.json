@@ -1,0 +1,137 @@
+{
+    "keyId": "hero-dynamicload-proof-v1",
+    "securityGeneration": 1,
+    "signatureBase64": "beOKZee3kZ4XtzxNRsjQin5UEZG2g/BNs/5AUP8I9vEalp6kDQLg9BhNHjviB9/6fHHQ2vrCejGyz6x9difd7Xfe1zSTp2iXRJVcvRcgC2WLwqb3Y7GGT+SeQuvbn17rNU2hySptVZAgQ0d4Dxr9kH/fk3EvxVe+hv2dev5NLZ4=",
+    "route": {
+        "targetKind": 1,
+        "planId": "negative-final-entry-v-3f8d311c4888b6b0",
+        "phaseId": "game",
+        "primaryRelease": {
+            "phaseId": "game",
+            "releaseId": "v-3f8d311c4888b6b0",
+            "activationMode": 1,
+            "compatibilityId": "app-32d65c72cba35225",
+            "securityGeneration": 1,
+            "managedAssemblies": [
+                {
+                    "name": "DynamicLoadL1.Level.Runtime.Simulation",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.Level.Runtime",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.Map.Runtime",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.GameFlow.Runtime",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.GameApplication.Runtime",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.Level.UI",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.Level.Runtime.Unity",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.Map.UI",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.Map.Runtime.Unity",
+                    "version": "0.0.0.0"
+                },
+                {
+                    "name": "DynamicLoadL1.GameApplication.Runtime.Unity",
+                    "version": "0.0.0.0"
+                }
+            ],
+            "runtimePackageId": "remote-runtime",
+            "runtimePackageVersion": "v-3f8d311c4888b6b0",
+            "runtimeCompatibilityId": "r-71a36033814cfe51",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph3-75d1df46edc4a665ff77d2aa/runtime",
+            "runtimeDescriptorFile": "runtime-payload.json",
+            "entryPackageId": "remote-game-entry",
+            "entryPackageVersion": "v-c66e5b2fd899eff9",
+            "entryCompatibilityId": "pe-71a36033814cfe51",
+            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/negative-final-entry/neg-entry-54a78a1aaf84d9bf07e79f75/missing-game-entry",
+            "entrySceneBundle": "Scenes/game-entry.bundle",
+            "entryScenePath": "Assets/_DynamicLoadL1/Module/GameApplication/Scenes/Game.unity"
+        },
+        "authorizedFallbacks": [
+            {
+                "phaseId": "game",
+                "releaseId": "v-79b5852453df2963",
+                "activationMode": 1,
+                "compatibilityId": "app-32d65c72cba35225",
+                "securityGeneration": 1,
+                "managedAssemblies": [
+                    {
+                        "name": "DynamicLoadL1.Level.Runtime.Simulation",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.Level.Runtime",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.Map.Runtime",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.GameFlow.Runtime",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.GameApplication.Runtime",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.Level.UI",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.Level.Runtime.Unity",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.Map.UI",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.Map.Runtime.Unity",
+                        "version": "0.0.0.0"
+                    },
+                    {
+                        "name": "DynamicLoadL1.GameApplication.Runtime.Unity",
+                        "version": "0.0.0.0"
+                    }
+                ],
+                "runtimePackageId": "runtime",
+                "runtimePackageVersion": "v-79b5852453df2963",
+                "runtimeCompatibilityId": "r-71a36033814cfe51",
+                "runtimeRemoteBaseUri": "",
+                "runtimeDescriptorFile": "runtime-payload.json",
+                "entryPackageId": "game-entry",
+                "entryPackageVersion": "v-8fd0e78e7a7befa7",
+                "entryCompatibilityId": "pe-71a36033814cfe51",
+                "entryRemoteBaseUri": "",
+                "entrySceneBundle": "Scenes/game-entry.bundle",
+                "entryScenePath": "Assets/_DynamicLoadL1/Module/GameApplication/Scenes/Game.unity"
+            }
+        ],
+        "mandatory": false,
+        "securityFloor": 0,
+        "handoffContractVersion": 1,
+        "terminalCode": "",
+        "terminalMessage": ""
+    }
+}
