@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "payloadId": "v-bdff4e595360989c",
+    "aotMetadataFiles": [
+        "AOT/mscorlib.dll.bytes",
+        "AOT/NLog.dll.bytes",
+        "AOT/System.Core.dll.bytes",
+        "AOT/UnityEngine.CoreModule.dll.bytes",
+        "AOT/UnityEngine.UIElementsModule.dll.bytes"
+    ],
+    "hotUpdateAssemblies": [
+        {
+            "name": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity.dll.bytes",
+            "dependsOn": []
+        }
+    ],
+    "entryPackageId": "remote-release-selection-entry",
+    "entryPackageVersion": "v-aca3df7221394869",
+    "entryCompatibilityId": "pe-71a36033814cfe51",
+    "entrySceneBundle": "Scenes/entry.bundle",
+    "entryScenePath": "Assets/_DynamicLoadL1/System/DynamicLoad/Phases/release-selection/Scenes/Entry.unity"
+}

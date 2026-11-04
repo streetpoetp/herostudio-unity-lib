@@ -1,14 +1,14 @@
 {
-    "keyId": "hero-dynamicload-proof-v1",
+    "keyId": "route-rsa-b0918d890737b6a6",
     "securityGeneration": 1,
-    "signatureBase64": "Is+EzWRE/Jg2xYuwvmOD7ew71WxTLC18NpI3LajylYqOlU4CC/NGw72kF2juJFBpNosAY0nlsKQcNUvKRY/wQMBq02OUn85LoL+uxFmGtF62B4U+lEn/MOmGxMpmszRyivfOzHuZ+EtL6FIsQzv9m52MnLaplFlqftR9NhJtvdw=",
+    "signatureBase64": "JANbwWpoyTWckDcvZHphIWlfxAbYCz/E67pNK7w4xikI560qawozo50I9VWSWJChbXldfs97GOUzl4BcRyCGGN7hyzTZVj1cD1RI29M/oL1z5QsZUES+XS9tFeJ4Ue5sOIrborvVUKs+8uDhMxVzOYsCa4yRUFHLUyEUVSdYLGiMK/jD69m1gSXjsvSUWJquUHOZVAnAvmOHronaYlmMIb/sTGvX21WP1zfAdYHIAHuhUpXqbQ1ZA0k2P9YvrPbnrGi7ZxhTLH9Cp8w8imzBTHiPi53ovV4ic/SSCXzWBmx/t/ixMZmrzLo8iXEctrZkq+RbIE85NEeJFTFbdEeaGA==",
     "route": {
         "targetKind": 1,
-        "planId": "remote-game-v-f7cf95f8d3c01077",
+        "planId": "remote-game-v-e58e19e3e88aa661",
         "phaseId": "game",
         "primaryRelease": {
             "phaseId": "game",
-            "releaseId": "v-f7cf95f8d3c01077",
+            "releaseId": "v-e58e19e3e88aa661",
             "activationMode": 1,
             "compatibilityId": "app-32d65c72cba35225",
             "securityGeneration": 1,
@@ -55,14 +55,16 @@
                 }
             ],
             "runtimePackageId": "remote-runtime",
-            "runtimePackageVersion": "v-f7cf95f8d3c01077",
+            "runtimePackageVersion": "v-e58e19e3e88aa661",
             "runtimeCompatibilityId": "r-71a36033814cfe51",
-            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph4-f0705b7defcbcccbe3bad867/runtime",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph5-cb9c426336e0e6a2d9fb9dce/runtime",
+            "runtimeManifestSha256": "16475f7d0dff89abf0f6b8207b85469da21d5b67dac1a88865480d01b9286f4b",
             "runtimeDescriptorFile": "runtime-payload.json",
             "entryPackageId": "remote-game-entry",
             "entryPackageVersion": "v-c66e5b2fd899eff9",
             "entryCompatibilityId": "pe-71a36033814cfe51",
-            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph4-f0705b7defcbcccbe3bad867/game-entry",
+            "entryRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/ph5-cb9c426336e0e6a2d9fb9dce/game-entry",
+            "entryManifestSha256": "ec65c32d74f23871b1c3d66c32bd0560b86adef868c51ca283b76e1ce19185ec",
             "entrySceneBundle": "Scenes/game-entry.bundle",
             "entryScenePath": "Assets/_DynamicLoadL1/Module/GameApplication/Scenes/Game.unity"
         },
