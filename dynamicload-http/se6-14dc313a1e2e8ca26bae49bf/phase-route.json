@@ -1,0 +1,44 @@
+{
+    "keyId": "route-rsa-b0918d890737b6a6",
+    "securityGeneration": 1,
+    "signatureBase64": "BGadlydcD5W6JiS5yF+6W08nFc1lzFs1fOjL28Xx2OfqWPRT7gna+D9qS4hhSMuNDJ96U9uxUPcMu6lco9VYmj/T9dyaFtR38+kMa4nehDYagiaMl6VRWv7PbfJGOf1/wP3Aj0Sa5bI8p1fM9Z3VbIEDAbbEd74FGPiVT0fk3P00eFAVBt6ImMD+bM0T0tUcs2fZNtBF1dDDR2tAmlB+zk8GPxpPTsaqRhbNZ+whKcDMxqP5i+rH2ZqjgnUbZtgqNSMTTOyO7v3ZEOAdh0koaHH2M4Dafq9YBsQoozEeVbZlxSMqiHyV3I/N8Ea+wQ68Nz3+sp1jUPC8d9zGAgRWsA==",
+    "route": {
+        "targetKind": 0,
+        "planId": "remote-release-selection-v-707575ca877f83b9",
+        "phaseId": "release-selection",
+        "primaryRelease": {
+            "phaseId": "release-selection",
+            "releaseId": "v-707575ca877f83b9",
+            "activationMode": 1,
+            "compatibilityId": "editor-6000-3-24f1",
+            "securityGeneration": 1,
+            "managedAssemblies": [
+                {
+                    "name": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
+                    "version": "0.0.0.0"
+                }
+            ],
+            "runtimePackageId": "remote-release-selection-runtime",
+            "runtimePackageVersion": "v-707575ca877f83b9",
+            "runtimeCompatibilityId": "r-71a36033814cfe51",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/release-selection-runtime",
+            "runtimeManifestSha256": "2734e0190d68d8d37ff7bbb778995deec396f09675f27dba30f01d0b479326f1",
+            "runtimeDescriptorFile": "runtime-payload.json",
+            "entryAssemblyName": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
+            "entryTypeName": "HeroStudio.Debug.DynamicLoadL1.ReleaseSelectionPhase.RuntimeUnity.ReleaseSelectionPhase",
+            "resourcePackageId": "",
+            "resourcePackageVersion": "",
+            "resourceCompatibilityId": "",
+            "resourceRemoteBaseUri": "",
+            "resourceManifestSha256": "",
+            "resourceBundle": "",
+            "resourceAssetPaths": []
+        },
+        "authorizedFallbacks": [],
+        "mandatory": false,
+        "securityFloor": 1,
+        "handoffContractVersion": 1,
+        "terminalCode": "",
+        "terminalMessage": ""
+    }
+}

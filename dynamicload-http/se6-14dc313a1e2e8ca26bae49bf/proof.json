@@ -1,0 +1,39 @@
+{
+    "fixtureId": "se6-14dc313a1e2e8ca26bae49bf",
+    "sourceCommit": "06df7a001f7c41fe5ffdeefacfe3b54e4b2869ef",
+    "sourceDiffSha256": "8b41ba9551bea675c07f71e426b13a2af2f6b969adc01fbcec4e2cfa4a5068a5",
+    "target": "Android",
+    "pagesUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/",
+    "rawUri": "https://raw.githubusercontent.com/streetpoetp/herostudio-unity-lib/gh-pages/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/",
+    "initialRouteSha256": "8599357c0bb08c463b383654c2c72d0b91b7a20bc58affec2d1208b6f27d5ada",
+    "phaseRouteSha256": "5322a397f0a733ac3f95acf4a62b1e0af0ced4593c664937db8070c647b67417",
+    "gameRouteSha256": "9306dcb8ea0a37819a68ddb360c8cb64e7a49e5dc48c5a52da4dbbdd1fdcc51f",
+    "startupPhaseRuntime": {
+        "packageId": "remote-startup-phase-runtime",
+        "version": "v-f6d9b68dabc10d57",
+        "compatibilityId": "r-71a36033814cfe51",
+        "manifestSha256": "a419d2fb48c0eb7e382d0dde05a03699b16a6c3183d4ae96776cc225ecd001ad",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/startup-phase-runtime"
+    },
+    "releaseSelectionRuntime": {
+        "packageId": "remote-release-selection-runtime",
+        "version": "v-707575ca877f83b9",
+        "compatibilityId": "r-71a36033814cfe51",
+        "manifestSha256": "2734e0190d68d8d37ff7bbb778995deec396f09675f27dba30f01d0b479326f1",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/release-selection-runtime"
+    },
+    "runtime": {
+        "packageId": "remote-runtime",
+        "version": "v-e0faa8f849f58428",
+        "compatibilityId": "r-71a36033814cfe51",
+        "manifestSha256": "88742891d8e70ddae96f33a5c0f1b4726592140218d0b927fed4311002a82d2e",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/runtime"
+    },
+    "resources": {
+        "packageId": "remote-resources",
+        "version": "v-6ceb2437851e929b",
+        "compatibilityId": "res-71a36033814cfe51",
+        "manifestSha256": "b3f5174f4f7fc5e62c1780bbd2200a81faae45841a90cfb724a146116b431e30",
+        "remoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/resources"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "packageId": "remote-resources",
+    "version": "v-6ceb2437851e929b",
+    "compatibilityId": "res-71a36033814cfe51",
+    "files": [
+        {
+            "path": "Resources/resources.bundle",
+            "length": 5565,
+            "sha256": "0cbb15c0446753f6d7456bfb27690dae0c810b956876f1d0ec7bf9479f55de4f"
+        }
+    ]
+}

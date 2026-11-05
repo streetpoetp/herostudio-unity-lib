@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 2,
+    "payloadId": "v-c824ac36f2e9fa1d",
+    "aotMetadataFiles": [
+        "AOT/mscorlib.dll.bytes",
+        "AOT/NLog.dll.bytes",
+        "AOT/System.Core.dll.bytes",
+        "AOT/UnityEngine.CoreModule.dll.bytes",
+        "AOT/UnityEngine.UIElementsModule.dll.bytes"
+    ],
+    "hotUpdateAssemblies": [
+        {
+            "name": "DynamicLoadL1.StartupPhase.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.StartupPhase.Runtime.Unity.dll.bytes",
+            "dependsOn": []
+        }
+    ],
+    "entryAssemblyName": "DynamicLoadL1.StartupPhase.Runtime.Unity",
+    "entryTypeName": "HeroStudio.Debug.DynamicLoadL1.StartupPhase.RuntimeUnity.RoutingPhase",
+    "resourcePackageId": "",
+    "resourcePackageVersion": "",
+    "resourceCompatibilityId": "",
+    "resourceBundle": "",
+    "resourceAssetPaths": []
+}

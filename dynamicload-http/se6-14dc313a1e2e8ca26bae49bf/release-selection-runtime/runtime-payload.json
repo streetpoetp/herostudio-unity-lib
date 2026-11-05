@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 2,
+    "payloadId": "v-ef0aaa1f23a54050",
+    "aotMetadataFiles": [
+        "AOT/mscorlib.dll.bytes",
+        "AOT/NLog.dll.bytes",
+        "AOT/System.Core.dll.bytes",
+        "AOT/UnityEngine.CoreModule.dll.bytes",
+        "AOT/UnityEngine.UIElementsModule.dll.bytes"
+    ],
+    "hotUpdateAssemblies": [
+        {
+            "name": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
+            "file": "Assemblies/DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity.dll.bytes",
+            "dependsOn": []
+        }
+    ],
+    "entryAssemblyName": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
+    "entryTypeName": "HeroStudio.Debug.DynamicLoadL1.ReleaseSelectionPhase.RuntimeUnity.ReleaseSelectionPhase",
+    "resourcePackageId": "",
+    "resourcePackageVersion": "",
+    "resourceCompatibilityId": "",
+    "resourceBundle": "",
+    "resourceAssetPaths": []
+}
