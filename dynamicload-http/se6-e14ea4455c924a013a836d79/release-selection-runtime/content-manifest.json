@@ -1,0 +1,48 @@
+{
+    "schemaVersion": 1,
+    "packageId": "remote-release-selection-runtime",
+    "version": "v-409a54077a8330e1",
+    "compatibilityId": "r-71a36033814cfe51",
+    "files": [
+        {
+            "path": "AOT/NLog.dll.bytes",
+            "length": 941056,
+            "sha256": "60c23333016c3c6c09f2c1835a39e7c5131764abc18518ef09e633da275c6973"
+        },
+        {
+            "path": "AOT/System.Core.dll.bytes",
+            "length": 444928,
+            "sha256": "c0dc0b496333feebc07bb78b7096de1d281e775b5f4aea75982038271e80eb5e"
+        },
+        {
+            "path": "AOT/UniTask.dll.bytes",
+            "length": 568320,
+            "sha256": "bc52860efa7be538171c06c6ee79562521bfa4feacf94c317c615625d84335a5"
+        },
+        {
+            "path": "AOT/UnityEngine.CoreModule.dll.bytes",
+            "length": 873984,
+            "sha256": "fc0765e56247c6f64702fa78bc64408001edd250dfe6434117d1a545888229fd"
+        },
+        {
+            "path": "AOT/UnityEngine.UIElementsModule.dll.bytes",
+            "length": 1914368,
+            "sha256": "43ec4894be3f1b081bb1641fd79d5ef4beff5d057229d3e5a6d47b3541e8f237"
+        },
+        {
+            "path": "AOT/mscorlib.dll.bytes",
+            "length": 2391552,
+            "sha256": "7c557424678ee51213a0890b85e285a1a0a11fa6b54a9e7e5d95eb6af5edc8b1"
+        },
+        {
+            "path": "Assemblies/DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity.dll.bytes",
+            "length": 11264,
+            "sha256": "e9d9e881a83912d3573e0ad8f742d2947321bd0081bf7ef76eba3706aefc5b0d"
+        },
+        {
+            "path": "runtime-payload.json",
+            "length": 928,
+            "sha256": "7db3606d549dedce6556df9d4f22e72b726215c6ba9f64384ace20f7a3375d4d"
+        }
+    ]
+}
