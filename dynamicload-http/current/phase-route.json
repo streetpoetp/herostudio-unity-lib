@@ -1,16 +1,16 @@
 {
     "keyId": "route-rsa-b0918d890737b6a6",
     "securityGeneration": 1,
-    "signatureBase64": "BGadlydcD5W6JiS5yF+6W08nFc1lzFs1fOjL28Xx2OfqWPRT7gna+D9qS4hhSMuNDJ96U9uxUPcMu6lco9VYmj/T9dyaFtR38+kMa4nehDYagiaMl6VRWv7PbfJGOf1/wP3Aj0Sa5bI8p1fM9Z3VbIEDAbbEd74FGPiVT0fk3P00eFAVBt6ImMD+bM0T0tUcs2fZNtBF1dDDR2tAmlB+zk8GPxpPTsaqRhbNZ+whKcDMxqP5i+rH2ZqjgnUbZtgqNSMTTOyO7v3ZEOAdh0koaHH2M4Dafq9YBsQoozEeVbZlxSMqiHyV3I/N8Ea+wQ68Nz3+sp1jUPC8d9zGAgRWsA==",
+    "signatureBase64": "xq4On6KmAed4PFmoQd29n64V+VLdvQJ5pbcVVacDoLja9sZMRB7eqad5KWTc3ykgRjeRhnLLuw8WFmgEInT//w/+dLoGdJ7jngQ6wmK1f/0FT2FyOrAfFIK9rjqJdlOuge/HKQHWfiIv+qgBxQbD9lpQeoK4mYS256EATt0D7kgmqbr9fiRbT/OMEOpwmuIs1YzqWjocrWPjOSKlP2meHOJMUFXwbB8f/vhoN5mCpkUYNjtojL/79qrknC35OTv3kh7yn9W6YsNMtdd9DxkizRAibr4QTPkdttUehglz/5UL1nZLugvVnNqkGIU0RGY3dCxAWfua5HL8D76xA0EDMQ==",
     "route": {
         "targetKind": 0,
-        "planId": "remote-release-selection-v-707575ca877f83b9",
+        "planId": "remote-release-selection-v-409a54077a8330e1",
         "phaseId": "release-selection",
         "primaryRelease": {
             "phaseId": "release-selection",
-            "releaseId": "v-707575ca877f83b9",
+            "releaseId": "v-409a54077a8330e1",
             "activationMode": 1,
-            "compatibilityId": "editor-6000-3-24f1",
+            "compatibilityId": "app-aa7256bc72c88b02",
             "securityGeneration": 1,
             "managedAssemblies": [
                 {
@@ -19,10 +19,10 @@
                 }
             ],
             "runtimePackageId": "remote-release-selection-runtime",
-            "runtimePackageVersion": "v-707575ca877f83b9",
+            "runtimePackageVersion": "v-409a54077a8330e1",
             "runtimeCompatibilityId": "r-71a36033814cfe51",
-            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/release-selection-runtime",
-            "runtimeManifestSha256": "2734e0190d68d8d37ff7bbb778995deec396f09675f27dba30f01d0b479326f1",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-e14ea4455c924a013a836d79/release-selection-runtime",
+            "runtimeManifestSha256": "5d4583ca3365f4368f0b35618744829b3644ebffa0ec342d5cc58dd867badba1",
             "runtimeDescriptorFile": "runtime-payload.json",
             "entryAssemblyName": "DynamicLoadL1.ReleaseSelectionPhase.Runtime.Unity",
             "entryTypeName": "HeroStudio.Debug.DynamicLoadL1.ReleaseSelectionPhase.RuntimeUnity.ReleaseSelectionPhase",

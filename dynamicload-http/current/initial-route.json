@@ -1,16 +1,16 @@
 {
     "keyId": "route-rsa-b0918d890737b6a6",
     "securityGeneration": 1,
-    "signatureBase64": "QN0JHY8yOHI3YneGRk0cTYjBNehYYztxcea6So3H01iENKjVHsathEwfaKrVizBNBm8Z2YuTRbzQPZbdwiUuEcjSY70C3AOuawtQukoBK0clYEDEVaeCYTfPXhzXLch3c0c3tDhR/UBI/XkWvef1O4Vbd71BvCnOcUQTAzAL0w9wRGKj/nSq3u6urVaimTPyEJulhgywBjxs6xQqLawPFjVOMQEdsKfGaz6+Szt5YLRoGhc2w+e8tlcdvLsElJtrK11SkeuRA3AADZbSLqCs1qW/Pv1pI+Towq4bgwCYPH7c+SRlX9dPlGBKGrUBjgMoo8b9v6IoKC0ZCWU3HYJsQw==",
+    "signatureBase64": "sx6R0r8yTPFoGLgl9PGE3KMiAMoQ8QnAusGvX5iVt+U2sBCAzdRH5BU1nOs2iaz17RI8R6wtpiZ52S0O5nQGT0iRjJUIIW3kc4WBJ6Y2JUxMPfLIq16bUJdD2IdGiSF0RLf1PT2ufjznFMHnQJaBSv1bvioGmDQCUAIVrH2olgpHsJu84aXAGQBoxvRVI8UlXBCoWEyPBRmj2ZLU1gCokbTQ4y7Wof6ZgUa/htwqfEvc5KQXrIt40jlXTKSe1X/gneLjzEutBmSqIU8zTMhTGaiWvCrhhdMqFHS5QHwyFSp8BiCWWzPP9gRISEBqz0rNoEbcm5S/bfC6jxw6oW64aA==",
     "route": {
         "targetKind": 0,
-        "planId": "remote-startup-routing-v-f6d9b68dabc10d57",
+        "planId": "remote-startup-routing-v-6289295961f64bdb",
         "phaseId": "startup-routing",
         "primaryRelease": {
             "phaseId": "startup-routing",
-            "releaseId": "v-f6d9b68dabc10d57",
+            "releaseId": "v-6289295961f64bdb",
             "activationMode": 1,
-            "compatibilityId": "editor-6000-3-24f1",
+            "compatibilityId": "app-aa7256bc72c88b02",
             "securityGeneration": 1,
             "managedAssemblies": [
                 {
@@ -19,10 +19,10 @@
                 }
             ],
             "runtimePackageId": "remote-startup-phase-runtime",
-            "runtimePackageVersion": "v-f6d9b68dabc10d57",
+            "runtimePackageVersion": "v-6289295961f64bdb",
             "runtimeCompatibilityId": "r-71a36033814cfe51",
-            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-14dc313a1e2e8ca26bae49bf/startup-phase-runtime",
-            "runtimeManifestSha256": "a419d2fb48c0eb7e382d0dde05a03699b16a6c3183d4ae96776cc225ecd001ad",
+            "runtimeRemoteBaseUri": "https://streetpoetp.github.io/herostudio-unity-lib/dynamicload-http/se6-e14ea4455c924a013a836d79/startup-phase-runtime",
+            "runtimeManifestSha256": "fc2b5f6a52a2379fd7d6e0e2c6bf2767c067f825db0061a6afd663d868417aba",
             "runtimeDescriptorFile": "runtime-payload.json",
             "entryAssemblyName": "DynamicLoadL1.StartupPhase.Runtime.Unity",
             "entryTypeName": "HeroStudio.Debug.DynamicLoadL1.StartupPhase.RuntimeUnity.RoutingPhase",
